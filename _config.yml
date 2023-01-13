@@ -112,19 +112,19 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://mohiuddinsohel.github.io/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://scholar.google.com/citations?user=43x2vqwAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://twitter.com/MohiuddinSohel"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/MohiuddinSohel"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -134,13 +134,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
+      url: "https://twitter.com/MohiuddinSohel"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.linkedin.com/in/mohiuddinahmedsohel/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/MohiuddinSohel"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
