@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohiuddin111 Ahmed"
+title                    : "Mohiuddin Ahmed"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "A personal website"
+name                     : "Mohiuddin Ahmed"
 description              : "An amazing website."
 url                      : https://mohiuddinsohel.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Mohiuddin Ahmed"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Put Elevator pitch here"
-  location         : "Melbourne, Florida"
+  bio              : "Ph.d. Candidate, UNC Charlotte"
+  location         : "Charlotte, NC"
   email            : Sohel.buet.cse.07@gmail.com
   links:
     - label: "LinkedIn"
