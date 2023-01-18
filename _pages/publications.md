@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Education & Experience"
-permalink: /pulications/
+title: "Publication"
+permalink: /publications/
 author_profile: true
 redirect_from:
-  - /resume
+  - /publication
 ---
