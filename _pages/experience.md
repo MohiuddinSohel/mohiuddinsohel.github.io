@@ -1,5 +1,6 @@
 ---
 layout: archive
+classes: wide
 title: "Education & Experience"
 permalink: /experience/
 author_profile: true
