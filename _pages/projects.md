@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education & Experience"
+title: "Research and Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:

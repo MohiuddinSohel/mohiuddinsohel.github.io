@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education & Experience"
+title: "Coming Soon"
 permalink: /blogs/
 author_profile: true
 redirect_from:
