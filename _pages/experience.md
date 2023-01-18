@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 classes: wide
 title: "Education & Experience"
 permalink: /experience/
