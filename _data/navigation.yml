@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Research"
-    url: "//"
+  - title: "Education & Experience"
+    url: "/experience/"
+  - title: "Research & projects"
+    url: "/projects/"
   - title: "Publications"
     url: /publications/
   - title: "CV/Resume"
