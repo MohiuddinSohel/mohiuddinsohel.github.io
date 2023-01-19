@@ -108,36 +108,75 @@ author:
   avatar           : "/Image/Pro.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.d. Candidate, UNC Charlotte"
   location         : "Charlotte, NC"
-  email            : Sohel.buet.cse.07@gmail.com
-  links:
-    - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/mohiuddinahmedsohel/"
-    #- label: "Website"
-     # icon: "fas fa-fw fa-link"
-      #url: "https://mohiuddinsohel.github.io/"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
-      url: "https://scholar.google.com/citations?user=43x2vqwAAAAJ&hl=en"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MohiuddinSohel"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/MohiuddinSohel"
-   # - label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+  email            : "Sohel.buet.cse.07@gmail.com"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=43x2vqwAAAAJ&hl=en"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       : 
+  github           : "https://github.com/MohiuddinSohel"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : "https://www.linkedin.com/in/mohiuddinahmedsohel/"
+  orcid            : 
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "https://twitter.com/MohiuddinSohel"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
+# author:
+#   name             : "Mohiuddin Ahmed"
+#   avatar           : "/Image/Pro.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#   bio              : "Ph.d. Candidate, UNC Charlotte"
+#   location         : "Charlotte, NC"
+#   email            : Sohel.buet.cse.07@gmail.com
+#   links:
+#     - label: "LinkedIn"
+#       icon: "fab fa-linkedin"
+#       url: "https://www.linkedin.com/in/mohiuddinahmedsohel/"
+#     #- label: "Website"
+#      # icon: "fas fa-fw fa-link"
+#       #url: "https://mohiuddinsohel.github.io/"
+#     - label: "Google Scholar"
+#       icon: "fab fa-fw fa-google-scholar"
+#       url: "https://scholar.google.com/citations?user=43x2vqwAAAAJ&hl=en"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/MohiuddinSohel"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/MohiuddinSohel"
+#    # - label: "Instagram"
+#     #  icon: "fab fa-fw fa-instagram"
+#       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/MohiuddinSohel"
-#     - label: "LinkedIn"
-#       icon: "fab fa-fw fa-facebook-square"
-#       url: "https://www.linkedin.com/in/mohiuddinahmedsohel/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MohiuddinSohel"
+    - label: "LinkedIn"
+      icon: ""fab fa-linkedin""
+      url: "https://www.linkedin.com/in/mohiuddinahmedsohel/"
 #     - label: "GitHub"
 #       icon: "fab fa-fw fa-github"
 #       url: "https://github.com/MohiuddinSohel"
