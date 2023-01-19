@@ -105,19 +105,19 @@ analytics:
 # Site Author
 author:
   name             : "Mohiuddin Ahmed"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/Image/Pro.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.d. Candidate, UNC Charlotte"
   location         : "Charlotte, NC"
   email            : Sohel.buet.cse.07@gmail.com
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mohiuddinahmedsohel/"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://mohiuddinsohel.github.io/"
+    #- label: "Website"
+     # icon: "fas fa-fw fa-link"
+      #url: "https://mohiuddinsohel.github.io/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=43x2vqwAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -125,30 +125,30 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MohiuddinSohel"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+   # - label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MohiuddinSohel"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.linkedin.com/in/mohiuddinahmedsohel/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/MohiuddinSohel"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/MohiuddinSohel"
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-facebook-square"
+#       url: "https://www.linkedin.com/in/mohiuddinahmedsohel/"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/MohiuddinSohel"
+#     - label: "GitLab"
+#       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+#     - label: "Bitbucket"
+#       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
       # url:
 
 
