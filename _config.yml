@@ -109,37 +109,37 @@ author:
   bio              : "Ph.d. Candidate, UNC Charlotte"
   location         : "Charlotte, NC"
   email            : "Sohel.buet.cse.07@gmail.com"
-  employer         :
-  pubmed           : 
+#   employer         :
+#   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=43x2vqwAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       : 
+#   email            :
+#   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+#   uri              :
+#   bitbucket        :
+#   codepen          :
+#   dribbble         :
+#   flickr           :
+#   facebook         :
+#   foursquare       : 
   github           : "https://github.com/MohiuddinSohel"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+#   google_plus      :
+#   keybase          :
+#   instagram        :
+#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#   lastfm           :
   linkedin         : "https://www.linkedin.com/in/mohiuddinahmedsohel/"
-  orcid            : 
-  pinterest        :
-  soundcloud       :
+#   orcid            : 
+#   pinterest        :
+#   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+#   steam            :
+#   tumblr           :
   twitter          : "https://twitter.com/MohiuddinSohel"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+#   vine             :
+#   weibo            :
+#   xing             :
+#   youtube          :
+#   wikipedia        :
 
 
 # author:
