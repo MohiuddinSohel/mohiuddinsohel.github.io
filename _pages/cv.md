@@ -1,7 +1,6 @@
 ---
 layout: single
 classes: wide
-title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
