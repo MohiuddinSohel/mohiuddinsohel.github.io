@@ -8,4 +8,4 @@ redirect_from:
   - /resume
 ---
 
-You can download my [cv](../Image/cv.pdf) or [resume](../Image/Resume.pdf) here.
+You can download my [cv](../Image/CV.pdf) or [resume](../Image/Resume.pdf) here.
