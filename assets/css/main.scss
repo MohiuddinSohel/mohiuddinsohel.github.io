@@ -7,24 +7,80 @@ search: false
 
 
 @charset "utf-8";
-
-
-
-a{
-  color: black;
-  text-decoration: none;
+a.site-title:before {
+  //background-color: white !important;
+  color: white !important;
 }
-a:link{
-  text-decoration: none;
+a.site-title{
+  color: white !important;
+  //text-decoration: None !important;
 }
+//a.site-title:hover{
+//  color: gray !important;
+//}
+.page__footer-copyright a{
+  color:white !important;
+  text-decoration: None;
+}
+.page__footer-copyright a:hover{
+  color:gray !important;
+  text-decoration: underline;
+}
+.page__footer-follow ul li a{
 
-a:visited{
-  text-decoration: none;
+  color:white !important;
+  text-decoration: None !important;
 }
+.page__footer-follow ul li a:hover{
 
-a:hover {
-  text-decoration: none;
+  color:gray !important;
+  text-decoration: underline !important;
 }
+p a{
+  color: black !important;
+  //text-decoration: none !important;
+}
+p a:hover{
+  color: gray !important;
+  //text-decoration: underline !important;
+}
+div a{
+  //text-decoration: none !important;
+  color:black !important
+}
+div a:hover{
+  color:gray !important;
+  //text-decoration: underline !important;
+}
+nav#site-nav.greedy-nav{
+  background: black !important;
+}
+ul.hidden-links{
+  background: black !important;
+}
+li.masthead__menu-item a{
+  color:white !important;
+  text-decoration: none !important;
+}
+li.masthead__menu-item a:hover{
+  color:gray !important;
+  text-decoration: none !important;
+}
+.greedy-nav .visible-links a:before {
+  background-color: white !important;
+  color: gray !important;
+}
+//a:link{
+//  text-decoration: none;
+//}
+//
+//a:visited{
+//  text-decoration: none;
+//}
+//
+//a:hover {
+//  text-decoration: none;
+//}
 
 
 a:active { text-decoration: none; }

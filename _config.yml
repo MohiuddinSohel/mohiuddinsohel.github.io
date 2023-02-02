@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Welcome To My Homepage"
 title_separator          : "-"
-name                     : &name "Mohiuddin Ahmed"
+name                     : &name "Mohiuddin Ahmed Sohel"
 description              : &description "Ph.D. Candidate at UNC Charlotte"
 url                      : "https://mohiuddinsohel.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohiuddin Ahmed"
+  name             : "Mohiuddin Ahmed Sohel"
   avatar           : "/assets/images/Pro.jpg"
-  bio              : "Ph.D. Candidate at UNC Charlotte"
+  bio              : "Ph.D. Candidate, Cyber Security Researcher @UNC Charlotte"
   location         : "Charlotte, NC, USA"
 #  employer         :
 #  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -127,9 +127,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MohiuddinSohel"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MohiuddinSohel"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/MohiuddinSohel"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mohiuddinahmedsohel/"

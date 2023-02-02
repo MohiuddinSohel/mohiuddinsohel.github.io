@@ -15,9 +15,9 @@ B.Sc. in Computer Science and Engineering [January, 2008 - February, 2013]<br>
       
 **Professional Services**<br>
 [University of North Carolina at Charlotte, NC, USA](https://cci.uncc.edu/departments/software-and-information-systems-sis)<br>
-    Research Assistant [August, 2016 - To date]<br>
+    Research Assistant [August, 2016 - 2020]<br>
     Teaching Assitant [August, 2016 - To date] <br>
-    Advisor: [Dr. Jinpeng Wei](https://webpages.charlotte.edu/jwei8/)<br>
+    Advisor: [Dr. Jinpeng Wei (2020-Current)](https://webpages.charlotte.edu/jwei8/), [Dr. Ehab Al-Shaer (2016-2020)](https://www.andrew.cmu.edu/user/eshaer/)<br>
       
   [KONA Software Lab Ltd., Dhaka, Bangladesh](https://konasl.com/) <br>
     Team Lead, Security Lab [December, 2015 - June, 2016]<br>
