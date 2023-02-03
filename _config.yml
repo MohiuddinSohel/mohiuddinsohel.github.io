@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Welcome To Mohiuddin Sohel's Homepage"
 title_separator          : "-"
-name                     : &name "Mohiuddin Ahmed Sohel"
+name                     : &name "Mohiuddin Sohel"
 description              : &description "Ph.D. Candidate at UNC Charlotte"
 url                      : "https://mohiuddinsohel.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
