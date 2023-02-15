@@ -236,7 +236,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1675384966419" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1675385518016" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -266,16 +266,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674238372241</updated>
-      <workItem from="1674238376903" duration="54064000" />
+      <workItem from="1674238376903" duration="54654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54064000" />
+    <option name="totallyTimeSpent" value="54654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="385" width="1936" height="1135" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
