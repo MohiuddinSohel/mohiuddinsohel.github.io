@@ -1,0 +1,125 @@
+Can you generate a cover letter based on the following job description and resume?
+
+Job Description:
+company- Microsoft
+At Mojang Studios, the creators of Minecraft, we are on a mission to build a better world through the power of play.
+
+Why play? Well, play is at the heart of everything we do. It’s the blocky backbone of our games, the core of our development philosophy, and even the origin of our name. From the relentless experimentation of our endlessly inspiring community to the classrooms where Minecraft has become an essential teaching tool, play is the bedrock of our existence.
+
+We enable millions to create and play together, connect people across the globe, and foster a community that is among the most active and passionate in the world. Our community is global and incredibly diverse. When we are developing anything within our franchise, we keep this in mind. We want everyone to not only feel included in Minecraft, but also to see themselves in what we make. Our goal is for the Mojang Studios team to be as diverse as our community.
+
+The Software Engineers II role takes end-to-end ownership for development and quality of products and services that delight customers and add strategic value to Microsoft. You will evaluate requirements, estimate costs, and design and implement products and services. You will define, implement, and validate quality criteria for products and services to provide delightful player experiences. You will iterate on the engineering process, manage risks, dependencies, and compromises, and integrate software into broader ecosystems.
+
+As an experienced Software Engineer II, you will also work with peers across disciplines (Art, Design, Production, and Test) to build robust features on a predictable schedule and at high quality. You will help identify technology opportunities, risks, and prototyping new techniques to create high quality player-focused games.
+
+In the end, it’s the people of Mojang Studios that make this place truly special. When you join, you’ll find yourself in the company of incredibly bright, warm, and creative individuals – all united and working toward a single goal. Come help us reach it!
+
+Responsibilities
+Developing and coordinating features using Microsoft Azure compute and storage.
+Identifying risks and implementing solutions to prevent classes of bugs.
+Building a deep understanding of customer needs to inform design and implementation decisions.
+Ensuring timely, high quality deliverables.
+Effectively communicating both within the team and across the organization.
+Building strong partnerships with developers, program managers, and designers.
+Qualifications
+
+Required Qualifications:
+Bachelor's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python OR equivalent experience.
+2+ years experience writing cloud-based web services
+Preferred Qualifications
+Understanding of Azure for compute, storage, cache, and VMs, or comparable cloud-based web services.
+Test- and performance-driven methodology for building services. We need to ensure that our services are both robust and handle extremely high scale.
+Software Engineering IC3 - The typical base pay range for this role across the U.S. is USD $94,300 - $182,600 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $120,900 - $198,600 per year.
+
+Microsoft has different base pay ranges for different work locations within the United States, which allows us to pay employees competitively and consistently in different geographic markets (see below). The range above reflects the potential base pay across the U.S. for this role (except as noted below); the applicable base pay range will depend on what ultimately is determined to be the candidate’s primary work location. Individual base pay depends on various factors, in addition to primary work location, such as complexity and responsibility of role, job duties/requirements, and relevant experience and skills. Base pay ranges are reviewed and typically updated each year. Offers are made within the base pay range applicable at the time.
+
+At Microsoft certain roles are eligible for additional rewards, including merit increases, annual bonus and stock. These awards are allocated based on individual performance. In addition, certain roles also have the opportunity to earn sales incentives based on revenue or utilization, depending on the terms of the plan and the employee’s role. Benefits/perks listed here may vary depending on the nature of employment with Microsoft and the country work location. U.S.-based employees have access to medical, dental, and vision insurance, a 401(k) plan and company match, short-term and long-term disability coverage, basic life insurance, and wellbeing benefits, among others. U.S.-based employees also receive, per calendar year, up to 10 scheduled paid holidays, and up to 80 hours Holistic Health Time Off. Additionally, hourly/non-exempt employees accrue up to 120 hours paid vacation time, and salaried/exempt employees have Discretionary Time Off (DTO).
+
+Our Commitment to Pay Equity
+
+We are committed to the principle of pay equity – paying employees equitably for substantially similar work. To learn more about pay equity and our other commitments to increase representation and strengthen our culture of inclusion, check out our annual Diversity & Inclusion Report. ( https://www.microsoft.com/en-us/diversity/inside-microsoft/annual-report )
+
+Understanding Roles at Microsoft
+
+The top of this page displays the role for which the base pay ranges apply – Software Engineering IC3.
+
+The way we define roles includes two things: discipline (the type of work) and career stage (scope and complexity). The career stage has two parts – the first identifies whether the role is a manager (M), an individual contributor (IC), an admin-technician-retail (ATR) job, or an intern. The second part identifies the relative seniority of the role – a higher number (or later letter alphabetically in the case of ATR) indicates greater scope and complexity.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+
+Resume:
+
+About me: 
+I am a Ph.D. Candidate at SIS@UNC Charlotte, and My advisor is Dr. Jinpeng Wei. I am working as both Research and Teaching Assistant at UNC Charlotte. As a Research Assistant, I worked on projects funded by DOE and ONR. My research aims at developing distributed security analytics for distributed threat hunting. I developed distributed hierarchical event monitoring system to detect attacks based on attack technique description (static and behavioral features) provided by the MITRE ATT&CK framework. It aims at delivering monitoring intrusiveness, reducing communication overhead among agents, and enabling local decision-making while maintaining attacks and attack techniques detection accuracy high and in time. For low-level log (Windows ETW) analysis, I used provenance graph analysis, Bayesian network, NLP, and Deep learning. I have hands-on experience with the MITRE ATT&CK framework, ElasticSearch, and RabbitMQ.
+As a Teaching Assistant, I teach, design, and prepare graduate courses-"Principles of Information Security and Privacy, Network Infrastructure Security, Data mining, course assignments, and exam questions.
+Before joining UNC Charlotte as a Ph.D. student, I worked as a Software Engineer and Team Lead at Kona Software Lab Ltd., Dhaka, Bangladesh, with industry experience in core J2EE, NFC, PKI Systems, CA, and chip-based smart card technologies. My responsibility as a software engineer was to design and develop middleware libraries for PKI and CA systems while conforming to KISA , FIPS, PKCS#7, and PKCS#11 standards. I lead a team of three software developers to design and develop NFC-based smart card authentication for Windows OS.
+
+
+Education:
+Ph.D. in Software and Information Systems [August, 2016 - To date]
+University of North Carolina at Charlotte, NC, USA
+
+B.Sc. in Computer Science and Engineering [January, 2008 - February, 2013]
+Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
+
+
+Professional Services:
+University of North Carolina at Charlotte, NC, USA
+Research Assistant [August, 2016 - 2020]
+Teaching Assitant [August, 2016 - To date]
+Advisor: Dr. Jinpeng Wei (2020-Current), Dr. Ehab Al-Shaer (2016-2020)
+
+KONA Software Lab Ltd., Dhaka, Bangladesh
+Team Lead, Security Lab [December, 2015 - June, 2016]
+Software Engineer [March, 2014 - December, 2015]
+
+Nascenia, Dhaka, Bangladesh
+Junior Software Engineer [March, 2013 - February, 2014]
+
+
+Professional Skills:
+1. Programming Language: –Expert: Python, Java, C++, C, Prolog; –Working Knowledge: R, Android, C#
+2. Web Development and Scripting: Shell Scripting, PHP, JavaScript, HTML5, SQL
+3. Frameworks: Spring, Laravel, MODX CMS, • Visualization Tools: UML, Weka, Gephi
+4. Version Control: Git, • Virtualization Tools: VirtualBox, VMWare, Docker
+5. Tools/Frameworks: IDAPro, Sysmon, OllyDbg, Splunk, Scrum/Agile development
+6. Machine Learning Libraries: Standford CoreNLP, AllenNLP, NLTK, Scikit-learn, Keras
+7. Cyber Security Research: Cyber Threat Hunting, Malware Analysis, Mitre ATT&CK Framework,Critical Security Control, Bayesian Network, Uncertainty Reasoning
+
+
+Research and projects:
+AUTO-Hunter [August 2020 - to date], Distributed Hierarchical Event Monitoring System for Attack Diagnosis through Active Investigation of Attacker Activities. Designed and implemented distributed hierarchical event monitoring system to reduce attack detection time, communication overhead and resource usages. Designed and developed low-level log collecting agents for windows system (ETW, event logs, syslog, NetFlow). Developed detectors to map low-level traces to MITRE ATT&CK technique and evidential reasoing framework which performs passive reasoning and active investigation on reported observables.
+Development Language/Tools: Python, Java, RabbitMQ, ElasticSearch, Virtualbox, Docker.
+
+Critical Security Control (CSC) Validation [August 2018 - May 2020], Automated extraction of threat action, observables, and development of key measurement indicators (KMI) and metrics for KMI of each CSC.
+Development Language: Python, Java.
+
+TTPDrill [January 2017 - July 2018], Automatic and Accurate Extraction of Threat Actions from Unstructured Text of CTI Sources and mapping of threat actions to MITRE ATT&CK techniques. Extracted threat action from CTI reports using NLP and mapped the extracted threat actions to MITRE ATT&CK techniques and tactics using document similarity measures TF-IDF.
+Development Language: Java.
+
+PKI-Middleware [May 2014 - December 2015], a PKCS#11 dynamic library developed for Windows, Linux, MAC and Android platform which complies KISA and FIPS standards. Implemented Multithreading and Multiprocessing, Smart Card Profile Initialization, key operation (RSA key, Secret key (DES3, AES, MAC, SEED) and Random Number Generation), and sign operation (Signature generation and verification, Symmetric and Asymmetric key encryption and decryption, MAC Generation and verification).
+Development Language: C++, JNI.
+
+Custom CSP [January 2016 - April 2016], Cryptographic Service Provider is a MSDN Compatible library that implements the Microsoft's CryptoAPI CAPI. This CSP is used to enable NFC-based smart card authentication in Windows OS.
+Development Language: C++, Windows API.
+
+PKI-Middleware Wrapper, [January 2015 - March 2015] is a Java wrapper to use PKCS#11 middleware library in Java Application. It reduces maintenance complexity of JNI, so that application developer don't have to write core C code to handle function call of PKCS#11 library.
+Development Language: Java.
+
+CMS, [May 2015 - June 2015] (Cryptographic Message Syntax), a PKCS#7 based toolkit developed to support CA System during certificate Issue that supports all data types (Signed, Enveloped, SignedAndEnveloped, data) of PKCS#7 and their operations.
+Development Language: Java.
+
+
+Publication:
+1. Mohiuddin Ahmed, Jinpeng Wei, Ehab Al-Shaer (Recently Accepted). SCAHunter: Scalable Threat Hunting through Decentralized Hierarchical Monitoring Agent Architecture. (Computing 2023). Link
+2. Mohiuddin Ahmed, Ehab Al-Shaer. (2019). Measures and metrics for the enforcement of critical security controls: a case study of boundary defense. (Poster presentation in HOTSOS 2019). Link
+3. Mohiuddin Ahmed, Jinpeng Wei, Yongge Wang and Ehab Al-Shaer. (2018). A Poisoning Attack Against Cryptocurrency Mining Pools. (CBT 2018). Link
+4. Rawan Al-Shaer, Mohiuddin Ahmed, Ehab Al-Shaer. (2018). Statistical Learning of APT TTP Chains from MITRE ATT&CK. (Poster presentation in ACSAC 2018).
+5. Mohammed Noraden Alsaleh, Jinpeng Wei, Ehab Al-Shaer and Mohiuddin Ahmed. (2018). gExtractor: Towards Automated Extraction of Malware Deception Parameters. (SSPREW-8, 2018). Link
+6. Ghaith Husari, Ehab Al-Shaer, Mohiuddin Ahmed, Bill Chu, and Xi Niu. (2017). TTPDrill: Automatic and Accurate Extraction of Threat Actions from Unstructured Text of CTI Sources. (ACSAC 2017). Link
+
+
+
