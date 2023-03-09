@@ -1,3 +1,8 @@
+Can you generate a evidence of excellence statement, not exceeding 2500 characters based on the following resume and publications-
+
+Can you generate a elevator pitch based on the following resume?
+
+Resume:
 About me: 
 I am a Ph.D. Candidate at SIS@UNC Charlotte, and My advisor is Dr. Jinpeng Wei. I am working as both Research and Teaching Assistant at UNC Charlotte. As a Research Assistant, I worked on projects funded by DOE and ONR. My research aims at developing distributed security analytics for distributed threat hunting. I developed distributed hierarchical event monitoring system to detect attacks based on attack technique description (static and behavioral features) provided by the MITRE ATT&CK framework. It aims at delivering monitoring intrusiveness, reducing communication overhead among agents, and enabling local decision-making while maintaining attacks and attack techniques detection accuracy high and in time. For low-level log (Windows ETW) analysis, I used provenance graph analysis, Bayesian network, NLP, and Deep learning. I have hands-on experience with the MITRE ATT&CK framework, ElasticSearch, and RabbitMQ.
 As a Teaching Assistant, I teach, design, and prepare graduate courses-"Principles of Information Security and Privacy, Network Infrastructure Security, Data mining, course assignments, and exam questions.
@@ -30,10 +35,12 @@ Professional Skills:
 1. Programming Language: –Expert: Python, Java, C++, C, Prolog; –Working Knowledge: R, Android, C#
 2. Web Development and Scripting: Shell Scripting, PHP, JavaScript, HTML5, SQL
 3. Frameworks: Spring, Laravel, MODX CMS, • Visualization Tools: UML, Weka, Gephi
-4. Version Control: Git, • Virtualization Tools: VirtualBox, VMWare, Docker
-5. Tools/Frameworks: IDAPro, Sysmon, OllyDbg, Splunk, Scrum/Agile development
-6. Machine Learning Libraries: Standford CoreNLP, AllenNLP, NLTK, Scikit-learn, Keras
-7. Cyber Security Research: Cyber Threat Hunting, Malware Analysis, Mitre ATT&CK Framework,Critical Security Control, Bayesian Network, Uncertainty Reasoning
+4. Databases: – RDMS: MySQL, Oracle SQL – NoSQL: Elasticsearch
+5. Version Control: Git, • Virtualization Tools: VirtualBox, VMWare, Docker
+6. Tools: Kubernetes, Gradle, Maven, IDAPro, Sysmon, OllyDbg, Splunk, Scrum/Agile development
+7. Machine Learning Libraries: Standford CoreNLP, AllenNLP, NLTK, Scikit-learn, Keras
+8. Cyber Security Research: Cyber Threat Hunting, Malware Analysis, Mitre ATT&CK Framework,Critical Security Control, Bayesian Network, Uncertainty Reasoning
+
 
 
 Research and projects:
@@ -60,10 +67,10 @@ Development Language: Java.
 
 
 Publication:
-1. Mohiuddin Ahmed, Jinpeng Wei, Ehab Al-Shaer (Recently Accepted). SCAHunter: Scalable Threat Hunting through Decentralized Hierarchical Monitoring Agent Architecture. (Computing 2023). Link
-2. Mohiuddin Ahmed, Ehab Al-Shaer. (2019). Measures and metrics for the enforcement of critical security controls: a case study of boundary defense. (Poster presentation in HOTSOS 2019). Link
-3. Mohiuddin Ahmed, Jinpeng Wei, Yongge Wang and Ehab Al-Shaer. (2018). A Poisoning Attack Against Cryptocurrency Mining Pools. (CBT 2018). Link
+1. Mohiuddin Ahmed, Jinpeng Wei, Ehab Al-Shaer (Recently Accepted). SCAHunter: Scalable Threat Hunting through Decentralized Hierarchical Monitoring Agent Architecture. (Computing 2023). 
+2. Mohiuddin Ahmed, Ehab Al-Shaer. (2019). Measures and metrics for the enforcement of critical security controls: a case study of boundary defense. (Poster presentation in HOTSOS 2019). 
+3. Mohiuddin Ahmed, Jinpeng Wei, Yongge Wang and Ehab Al-Shaer. (2018). A Poisoning Attack Against Cryptocurrency Mining Pools. (CBT 2018). 
 4. Rawan Al-Shaer, Mohiuddin Ahmed, Ehab Al-Shaer. (2018). Statistical Learning of APT TTP Chains from MITRE ATT&CK. (Poster presentation in ACSAC 2018).
-5. Mohammed Noraden Alsaleh, Jinpeng Wei, Ehab Al-Shaer and Mohiuddin Ahmed. (2018). gExtractor: Towards Automated Extraction of Malware Deception Parameters. (SSPREW-8, 2018). Link
-6. Ghaith Husari, Ehab Al-Shaer, Mohiuddin Ahmed, Bill Chu, and Xi Niu. (2017). TTPDrill: Automatic and Accurate Extraction of Threat Actions from Unstructured Text of CTI Sources. (ACSAC 2017). Link
+5. Mohammed Noraden Alsaleh, Jinpeng Wei, Ehab Al-Shaer and Mohiuddin Ahmed. (2018). gExtractor: Towards Automated Extraction of Malware Deception Parameters. (SSPREW-8, 2018). 
+6. Ghaith Husari, Ehab Al-Shaer, Mohiuddin Ahmed, Bill Chu, and Xi Niu. (2017). TTPDrill: Automatic and Accurate Extraction of Threat Actions from Unstructured Text of CTI Sources. (ACSAC 2017). 
 

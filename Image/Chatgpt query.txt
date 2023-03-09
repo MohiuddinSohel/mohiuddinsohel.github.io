@@ -1,53 +1,18 @@
 Can you generate a cover letter based on the following job description and resume?
 
 Job Description:
-company- Microsoft
-At Mojang Studios, the creators of Minecraft, we are on a mission to build a better world through the power of play.
+about Us- Cloudflare
+position- Systems Engineer - Logs
 
-Why play? Well, play is at the heart of everything we do. It’s the blocky backbone of our games, the core of our development philosophy, and even the origin of our name. From the relentless experimentation of our endlessly inspiring community to the classrooms where Minecraft has become an essential teaching tool, play is the bedrock of our existence.
+At Cloudflare, we have our eyes set on an ambitious goal: to help build a better Internet. Today the company runs one of the world’s largest networks that powers approximately 25 million Internet properties, for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.
 
-We enable millions to create and play together, connect people across the globe, and foster a community that is among the most active and passionate in the world. Our community is global and incredibly diverse. When we are developing anything within our franchise, we keep this in mind. We want everyone to not only feel included in Minecraft, but also to see themselves in what we make. Our goal is for the Mojang Studios team to be as diverse as our community.
+We realize people do not fit into neat boxes. We are looking for curious and empathetic individuals who are committed to developing themselves and learning new skills, and we are ready to help you do that. We cannot complete our mission without building a diverse and inclusive team. We hire the best people based on an evaluation of their potential and support them throughout their time at Cloudflare. Come join us!
 
-The Software Engineers II role takes end-to-end ownership for development and quality of products and services that delight customers and add strategic value to Microsoft. You will evaluate requirements, estimate costs, and design and implement products and services. You will define, implement, and validate quality criteria for products and services to provide delightful player experiences. You will iterate on the engineering process, manage risks, dependencies, and compromises, and integrate software into broader ecosystems.
+You will work as part of our core engineering team which builds the Cloudflare system running in 160+ cities around the world. Your work will focus on building robust, secure and high performance distributed systems. We are a small engineering team operating at a massive scale, so what you do will have a huge influence. We work in agile teams, so you will be supported by colleagues, and collaborate with other teams around the company.
 
-As an experienced Software Engineer II, you will also work with peers across disciplines (Art, Design, Production, and Test) to build robust features on a predictable schedule and at high quality. You will help identify technology opportunities, risks, and prototyping new techniques to create high quality player-focused games.
+On the Logs team, you would be responsible for crafting, building, and scaling one of the biggest global data pipelines to overcome network delays and partitions to deliver Cloudflare logs to customers in a timely manner. We are using Go, Kafka, ClickHouse, GraphQL and PostgreSQL to store and analyze in excess of 25 million events per second (and growing fast). A huge plus if you are interested in working with the entire stack from frontend to backend.
 
-In the end, it’s the people of Mojang Studios that make this place truly special. When you join, you’ll find yourself in the company of incredibly bright, warm, and creative individuals – all united and working toward a single goal. Come help us reach it!
-
-Responsibilities
-Developing and coordinating features using Microsoft Azure compute and storage.
-Identifying risks and implementing solutions to prevent classes of bugs.
-Building a deep understanding of customer needs to inform design and implementation decisions.
-Ensuring timely, high quality deliverables.
-Effectively communicating both within the team and across the organization.
-Building strong partnerships with developers, program managers, and designers.
-Qualifications
-
-Required Qualifications:
-Bachelor's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python OR equivalent experience.
-2+ years experience writing cloud-based web services
-Preferred Qualifications
-Understanding of Azure for compute, storage, cache, and VMs, or comparable cloud-based web services.
-Test- and performance-driven methodology for building services. We need to ensure that our services are both robust and handle extremely high scale.
-Software Engineering IC3 - The typical base pay range for this role across the U.S. is USD $94,300 - $182,600 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $120,900 - $198,600 per year.
-
-Microsoft has different base pay ranges for different work locations within the United States, which allows us to pay employees competitively and consistently in different geographic markets (see below). The range above reflects the potential base pay across the U.S. for this role (except as noted below); the applicable base pay range will depend on what ultimately is determined to be the candidate’s primary work location. Individual base pay depends on various factors, in addition to primary work location, such as complexity and responsibility of role, job duties/requirements, and relevant experience and skills. Base pay ranges are reviewed and typically updated each year. Offers are made within the base pay range applicable at the time.
-
-At Microsoft certain roles are eligible for additional rewards, including merit increases, annual bonus and stock. These awards are allocated based on individual performance. In addition, certain roles also have the opportunity to earn sales incentives based on revenue or utilization, depending on the terms of the plan and the employee’s role. Benefits/perks listed here may vary depending on the nature of employment with Microsoft and the country work location. U.S.-based employees have access to medical, dental, and vision insurance, a 401(k) plan and company match, short-term and long-term disability coverage, basic life insurance, and wellbeing benefits, among others. U.S.-based employees also receive, per calendar year, up to 10 scheduled paid holidays, and up to 80 hours Holistic Health Time Off. Additionally, hourly/non-exempt employees accrue up to 120 hours paid vacation time, and salaried/exempt employees have Discretionary Time Off (DTO).
-
-Our Commitment to Pay Equity
-
-We are committed to the principle of pay equity – paying employees equitably for substantially similar work. To learn more about pay equity and our other commitments to increase representation and strengthen our culture of inclusion, check out our annual Diversity & Inclusion Report. ( https://www.microsoft.com/en-us/diversity/inside-microsoft/annual-report )
-
-Understanding Roles at Microsoft
-
-The top of this page displays the role for which the base pay ranges apply – Software Engineering IC3.
-
-The way we define roles includes two things: discipline (the type of work) and career stage (scope and complexity). The career stage has two parts – the first identifies whether the role is a manager (M), an individual contributor (IC), an admin-technician-retail (ATR) job, or an intern. The second part identifies the relative seniority of the role – a higher number (or later letter alphabetically in the case of ATR) indicates greater scope and complexity.
-
-Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
-
-Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+If you joined us, your first 6 months could look like this: You start with a structured onboarding during which you get up-to-speed with the systems that move data around Cloudflare. You lead a project which uses our firehose of over 25 million events per second to help improve systems which collect, buffer, and deliver logs to customers’ destinations. You will help build new systems that provide customers with the ability to search, filter and analyze logs from Cloudflare systems. You share the knowledge gained with your colleagues. You take ownership of these systems, ensuring that they are secure, scalable, robust, and observable. You talk about this work at one of our weekly company talks, put together a post for the company blog, and engage with engineers on other teams who have exciting ideas about a way to take the work further.
 
 
 Resume:
@@ -84,10 +49,11 @@ Professional Skills:
 1. Programming Language: –Expert: Python, Java, C++, C, Prolog; –Working Knowledge: R, Android, C#
 2. Web Development and Scripting: Shell Scripting, PHP, JavaScript, HTML5, SQL
 3. Frameworks: Spring, Laravel, MODX CMS, • Visualization Tools: UML, Weka, Gephi
-4. Version Control: Git, • Virtualization Tools: VirtualBox, VMWare, Docker
-5. Tools/Frameworks: IDAPro, Sysmon, OllyDbg, Splunk, Scrum/Agile development
-6. Machine Learning Libraries: Standford CoreNLP, AllenNLP, NLTK, Scikit-learn, Keras
-7. Cyber Security Research: Cyber Threat Hunting, Malware Analysis, Mitre ATT&CK Framework,Critical Security Control, Bayesian Network, Uncertainty Reasoning
+4. Databases: – RDMS: MySQL, Oracle SQL – NoSQL: Elasticsearch
+5. Version Control: Git, • Virtualization Tools: VirtualBox, VMWare, Docker
+6. Tools: Kubernetes, Gradle, Maven, IDAPro, Sysmon, OllyDbg, Splunk, Scrum/Agile development
+7. Machine Learning Libraries: Standford CoreNLP, AllenNLP, NLTK, Scikit-learn, Keras
+8. Cyber Security Research: Cyber Threat Hunting, Malware Analysis, Mitre ATT&CK Framework,Critical Security Control, Bayesian Network, Uncertainty Reasoning
 
 
 Research and projects:
