@@ -1,18 +1,104 @@
 Can you generate a cover letter based on the following job description and resume?
 
-Job Description:
-about Us- Cloudflare
-position- Systems Engineer - Logs
+Cybersecurity Analyst
+Ashburn, VA
+Full-time
+ADMIN USE ONLY: NSBE
+Company Description
+Visa is a world leader in digital payments, facilitating more than 215 billion payments transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories each year. Our mission is to connect the world through the most innovative, convenient, reliable and secure payments network, enabling individuals, businesses and economies to thrive.
 
-At Cloudflare, we have our eyes set on an ambitious goal: to help build a better Internet. Today the company runs one of the world’s largest networks that powers approximately 25 million Internet properties, for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.
+When you join Visa, you join a culture of purpose and belonging – where your growth is priority, your identity is embraced, and the work you do matters. We believe that economies that include everyone everywhere, uplift everyone everywhere. Your work will have a direct impact on billions of people around the world – helping unlock financial access to enable the future of money movement.
 
-We realize people do not fit into neat boxes. We are looking for curious and empathetic individuals who are committed to developing themselves and learning new skills, and we are ready to help you do that. We cannot complete our mission without building a diverse and inclusive team. We hire the best people based on an evaluation of their potential and support them throughout their time at Cloudflare. Come join us!
+Join Visa: A Network Working for Everyone.
 
-You will work as part of our core engineering team which builds the Cloudflare system running in 160+ cities around the world. Your work will focus on building robust, secure and high performance distributed systems. We are a small engineering team operating at a massive scale, so what you do will have a huge influence. We work in agile teams, so you will be supported by colleagues, and collaborate with other teams around the company.
+Job Description
+Monitor Information Security alerts using Security Information and Event Management (SIEM) to triage, mitigate, and escalate issues as needed while capturing essential details and artifacts.
 
-On the Logs team, you would be responsible for crafting, building, and scaling one of the biggest global data pipelines to overcome network delays and partitions to deliver Cloudflare logs to customers in a timely manner. We are using Go, Kafka, ClickHouse, GraphQL and PostgreSQL to store and analyze in excess of 25 million events per second (and growing fast). A huge plus if you are interested in working with the entire stack from frontend to backend.
+Utilize sensor data and correlated logs containing AV, IDS, Windows events, Web Proxy, and similar data to establish context and rule out false positives.
 
-If you joined us, your first 6 months could look like this: You start with a structured onboarding during which you get up-to-speed with the systems that move data around Cloudflare. You lead a project which uses our firehose of over 25 million events per second to help improve systems which collect, buffer, and deliver logs to customers’ destinations. You will help build new systems that provide customers with the ability to search, filter and analyze logs from Cloudflare systems. You share the knowledge gained with your colleagues. You take ownership of these systems, ensuring that they are secure, scalable, robust, and observable. You talk about this work at one of our weekly company talks, put together a post for the company blog, and engage with engineers on other teams who have exciting ideas about a way to take the work further.
+Mitigate and contain identified threats using approved incident response methodologies. Initiate escalation procedures and incident response processes as defined in operational plan.
+
+Perform analysis of security alerts to evaluate risk, determine containment action and identify required preventative measures.
+
+Ensure proper documentation of security incidents including attack details.
+
+Interact and aid other investigative teams within Visa on time sensitive, critical investigations.
+
+Provide feedback to peer teams to enhance security sensor and improve detection capability.
+
+Collaborate with operational support teams to ensure they are actively engaged in addressing potential security threats that can impact business.
+
+Contribute to projects that enhance the security posture of the enterprise.
+
+Operationalize actionable Threat Intelligence reports from internal and external sources.
+
+Identify trends, potential new technologies, and emerging threats which may impact the business.
+
+Respond to incoming reports of security incidents from the organization via calls and emails.
+
+This position is staffed in shifts supporting a 24x7x365 global security operations center. Analysts work a series of 12-hour shifts (followed by days off). Staff assigned to the operations center are considered critical and may need to cover holidays and weekends, if scheduled.
+
+Essential Functions
+
+Monitor Information Security alerts using Security Information and Event Management (SIEM) to triage, mitigate, and escalate issues as needed while capturing essential details and artifacts.
+
+Utilize sensor data and correlated logs containing AV, IDS, Windows events, Web Proxy, and similar data to establish context and rule out false positives.
+
+Work Hours
+
+This position is staffed in shifts supporting a 24x7x365 global security operations center. Analysts work a series of 12-hour shifts (followed by days off). Staff assigned to the operations center are considered critical and may need to cover holidays and weekends, if scheduled.
+
+This is a hybrid position. Hybrid employees can alternate time between both remote and office. Employees in hybrid roles are expected to work from the office three days a week, Monday through Wednesday, with a general guidepost of being in the office 50% of the time based on business needs.
+
+Qualifications
+Basic Qualifications
+
+• 2 or more years of work experience with a Bachelor’s Degree or an Advanced Degree (e.g. Master’s,
+MBA, JD, MD, or PhD)
+
+Preferred Qualifications
+
+• 3 or more years of work experience with a Bachelor’s Degree or more than 2 years of work
+experience with an Advanced Degree (e.g. Masters, MBA, JD, MD)
+• 3+ years of Security Operations Center (SOC) work experience with a Bachelor’s degree
+• 3+ years of related experience in Cybersecurity or computer network defense role.
+• Bachelor’s degree in computer science, information systems, or related technical discipline or
+equivalent professional experience related to Cybersecurity, Incident Response or information
+security.Relevant security-related certifications a plus : CISSP, GCIH, GCIA, GCED, GCFA, CySA+.
+• Proven subject matter ability in relevant areas, such as incident response, intrusion analysis,
+malware analysis, web application security or security engineering.
+• Strong knowledge of malware families and network attack vectors.
+• Solid understanding of TCP/IP and internetworking technology including packet analysis, routing
+and network security defenses.
+• Strong knowledge of operating systems (Windows & Linux), network services and applications.
+• Demonstrated experience in an enterprise-level incident response team or security operations
+center. Direct experience in handling cyber security incidents and associated incident response
+tools.
+• Experience in operating and utilizing Security Information and Event Management tool.
+• Strong working knowledge of common security tools such as SIEM, AV, WAF, IDS, Netflow, Packet
+Analyzer and Endpoint Detection & Response tools.
+• Knowledge of web applications security vulnerabilities including cross-site scripting, cross-site
+request forgery, SQL injection, DoS attacks and API attacks.
+• Good understanding of Web Application Security risks.
+• Excellent understanding of DDoS techniques and mitigation mechanisms.
+• Display great problem-solving skills, with tenacity and resilience to resolve issues.
+• Excellent communication and presentation skills with proven skill in presenting analytical data
+effectively to varied audiences.
+• Strong interpersonal and leadership skills to influence and build credibility as a peer.
+• Strong understanding of cloud technologies and related security best practices.
+ 
+
+Additional Information
+Work Hours: Varies upon the needs of the department.
+
+Travel Requirements: This position requires travel 5-10% of the time.
+
+Mental/Physical Requirements: This position will be performed in an office setting.  The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers.
+
+Visa is an EEO Employer.  Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.  Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.
+
+Visa will consider for employment qualified applicants with criminal histories in a manner consistent with applicable local law, including the requirements of Article 49 of the San Francisco Police Code.
+
 
 
 Resume:
