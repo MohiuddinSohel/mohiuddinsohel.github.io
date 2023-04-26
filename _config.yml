@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome To Mohiuddin Sohel's Homepage"
+title                    : "Welcome To Mohiuddin Ahmed's Homepage"
 title_separator          : "-"
-name                     : &name "Mohiuddin Sohel"
+name                     : &name "Mohiuddin Ahmed"
 description              : &description "Ph.D. Candidate at UNC Charlotte"
 url                      : "https://mohiuddinsohel.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohiuddin Sohel"
+  name             : "Mohiuddin Ahmed"
   avatar           : "/assets/images/Pro.jpg"
   bio              : "Ph.D. Candidate, Cyber Security Researcher @UNC Charlotte"
   location         : "Charlotte, NC, USA"
