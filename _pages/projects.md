@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br>
 <div style="text-align: justify">
-<b>AUTO-Hunter</b> [August 2020 - to date], Distributed Hierarchical Event Monitoring System for Attack Diagnosis through Active 
+<b>Scalable-Hunter</b> [August 2020 - to date], Distributed Hierarchical Event Monitoring System for Attack Diagnosis through Active 
 Investigation of Attacker Activities. Designed and implemented distributed hierarchical event monitoring system to reduce attack
  detection time, communication overhead and resource usages. Designed and developed low-level log collecting agents for windows 
  system (ETW, event logs, syslog, NetFlow). Developed detectors to map low-level traces to MITRE ATT&CK technique and evidential 
@@ -21,10 +21,13 @@ Investigation of Attacker Activities. Designed and implemented distributed hiera
 <br> 
 
 <div style="text-align: justify">
-<b>Critical Security Control (CSC) Validation</b> [August 2018 - May 2020],  Automated extraction of threat action, observables, and 
-development of  key measurement indicators (KMI) and metrics for KMI of each CSC.
+<b>CIS Critical Security Control (CSC) Assessment</b> [August 2018 - May 2020],  This project aims to determine what to measure (observables), 
+how to measure (tools required), and metrics to evaluate the enforcement of CSCs. I used prompt engineering (Zero-shot learning, Few-shot learning, 
+Chain-of-Thought, Tree-of-though) with LLM (ChatGPT, LLAMA) to extract that information from the CIS CSC guidelines. Later, The CIS reviewed and 
+published our proposed approach as guidelines for the industry to assess CSCs. I also published my works at HOTSOS 2018 as a novel way to develop 
+measures and metrics for CIS CSC assessment.
 </div>
-  - Development Language: Python, Java.<br>
+  - Development Language: Python, Java, NLP, Prompt Engineering, gpt-3.5-turbo, LangChain.<br>
   - [Paper1](https://dl.acm.org/doi/abs/10.1145/3314058.3317730)
 <br> 
 <br> 
@@ -36,6 +39,18 @@ CTI Sources and mapping of threat actions to  MITRE ATT&CK techniques. Extracted
  </div>
   - Development Language: Java.<br>
   - [Paper1](https://dl.acm.org/doi/abs/10.1145/3134600.3134646)
+  -[Github1](https://github.com/MohiuddinSohel/Subject-Verb-Object-Extractor), [Github2](https://github.com/MohiuddinSohel/Cyber-Attack-Analyzer)
+<br> 
+<br>
+
+<div style="text-align: justify">
+<b>
+FAKE-CTI: Automated generation of plausible fake CTI report using retrofitted word vector</b> [August 2019 - December 2019],  The lack of enough text data containing attacker actions and sematic meaning difference of a cyber security term when used in non-cyber security context make the generation of word embedding for cyber security text is a tough task. However, the retrofitting technique makes the word embedding generation for cyber security texts plausible. The generated word embedding can be used to generate an automated plausible fake cyber threat intelligence report (CTI report) given some keywords for the corresponding CTI report. 
+In this project, All threat actions for each MITRE attack framework technique are extracted using an ontology as proposed in TTPDrill, which consists of the attacker action, object (cyber object), and intent of the attacker. Later, Semantic relations like synonyms of each attacker action and the cyber object will be extracted from Wordnet or thesaurus using scripting. In the end, each synonym list will be automatically examined to discard the synonyms that are not used in cyber security based on our common knowledge about commonly used cyber security terms.
+Using the extracted relationship and pre-trained word vector, a retrofitting technique will be used to generate a retrofitted word vector. After generating the refitted word embedding, A sentence can be generated based on the co-occurrence possibility of cyber security terms from the retrofitted word vector. The same task can be achieved in BERT using the Word Making model. After generating multiple sentences based on the provided keywords, we can consider a CTI report is generated.
+ </div>
+  - Development Language: Python, ML.<br>
+  - [Github](https://github.com/MohiuddinSohel/Natural-Language-Processing)
 <br> 
 <br> 
 
@@ -52,9 +67,10 @@ and <a href="https://en.wikipedia.org/wiki/Federal_Information_Processing_Standa
 <div style="text-align: justify">
 <b>Custom CSP</b> [January 2016 - April 2016], Cryptographic Service Provider is a MSDN Compatible library that 
 implements the Microsoft's CryptoAPI <a href="https://msdn.microsoft.com/en-us/library/windows/desktop/aa380239">CAPI</a>. 
-This CSP is used to enable NFC-based smart card authentication in Windows OS.
+This CSP is used to enable NFC-based smart card authentication in Windows OS. CSP implements encoding and decoding functions, which MSDN application may use, for example, to implement strong user authentication or for secure email.
+CSPs are independent modules that can be used by different applications. A user program calls CryptoAPI functions and these are redirected to CSP's functions. Since CSPs are responsible for implementing cryptographic algorithms and standards, applications do not need to be concerned about security details. Furthermore, one application can define which CSP it is going to use on its calls to CryptoAPI. In fact, all cryptographic activity is implemented in CSPs. CryptoAPI only works as a bridge between the application and the CSP.
 </div>
-  - Development Language: C++, Windows API. <br>
+  - Development Language: C++, Windows API, Cryptography, OpenSSL. <br>
 <br> 
 
    
