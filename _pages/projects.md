@@ -16,7 +16,8 @@ Investigation of Attacker Activities. Designed and implemented distributed hiera
  reasoing framework which performs passive reasoning and active investigation on reported observables.
 </div>
   - Development Language/Tools: Python, Java, RabbitMQ, ElasticSearch, Virtualbox, Docker.<br>
-  - [Paper1](\Image\SCAHunter.pdf), [Paper2](https://link.springer.com/chapter/10.1007/978-3-030-00305-0_11), [Paper3](https://dl.acm.org/doi/abs/10.1145/3289239.3289244)
+  - [Paper1](https://link.springer.com/chapter/10.1007/978-3-031-37963-5_88), [Paper2](https://link.springer.com/chapter/10.1007/978-3-030-00305-0_11), [Paper3](https://dl.acm.org/doi/abs/10.1145/3289239.3289244)
+  - [Github](https://github.com/MohiuddinSohel/Attack-on-Mining-Pool)
 <br> 
 <br> 
 
@@ -39,7 +40,7 @@ CTI Sources and mapping of threat actions to  MITRE ATT&CK techniques. Extracted
  </div>
   - Development Language: Java.<br>
   - [Paper1](https://dl.acm.org/doi/abs/10.1145/3134600.3134646)
-  -[Github1](https://github.com/MohiuddinSohel/Subject-Verb-Object-Extractor), [Github2](https://github.com/MohiuddinSohel/Cyber-Attack-Analyzer)
+  - [Github1](https://github.com/MohiuddinSohel/Subject-Verb-Object-Extractor), [Github2](https://github.com/MohiuddinSohel/Cyber-Attack-Analyzer)
 <br> 
 <br>
 
