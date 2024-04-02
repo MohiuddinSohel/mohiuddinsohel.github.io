@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 **Education**<br>
-Ph.D. in Software and Information Systems [August, 2016 - To date]<br>
+Ph.D. in Computing and Information Systems [August, 2016 - March, 2024]<br>
     [University of North Carolina at Charlotte, NC, USA](https://cci.uncc.edu/departments/software-and-information-systems-sis)<br>
     
 B.Sc. in Computer Science and Engineering [January, 2008 - February, 2013]<br>
