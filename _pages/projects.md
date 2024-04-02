@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br>
 <div style="text-align: justify">
-<b>Scalable-Hunter</b> [August 2020 - to date], Distributed Hierarchical Event Monitoring System for Attack Diagnosis through Active 
+<b>Scalable-Hunter</b> [August 2020 - December, 2023], Distributed Hierarchical Event Monitoring System for Attack Diagnosis through Active 
 Investigation of Attacker Activities. Designed and implemented distributed hierarchical event monitoring system to reduce attack
  detection time, communication overhead and resource usages. Designed and developed low-level log collecting agents for windows 
  system (ETW, event logs, syslog, NetFlow). Developed detectors to map low-level traces to MITRE ATT&CK technique and evidential 
@@ -22,7 +22,7 @@ Investigation of Attacker Activities. Designed and implemented distributed hiera
 <br> 
 
 <div style="text-align: justify">
-<b>CIS Critical Security Control (CSC) Assessment</b> [August 2018 - May 2020],  This project aims to determine what to measure (observables), 
+<b>CIS Critical Security Control (CSC) Assessment</b> [August 2018 - March 2024],  This project aims to determine what to measure (observables), 
 how to measure (tools required), and metrics to evaluate the enforcement of CSCs. I used prompt engineering (Few-shot learning, 
 Chain-of-Thought, Tree-of-Though) with LLM (ChatGPT, LLAMA) to extract that information from the CIS CSC guidelines. Later, The CIS reviewed and 
 published our proposed approach as guidelines for the industry to assess CSCs. I also published my works at HOTSOS 2018 as a novel way to develop 
