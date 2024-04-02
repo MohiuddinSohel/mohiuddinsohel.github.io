@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Mohiuddin Ahmed"
-description              : &description "Ph.D. Candidate at UNC Charlotte"
+description              : &description "Ph.D. from UNC Charlotte"
 url                      : "https://mohiuddinsohel.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MohiuddinSohel/mohiuddinsohel.github.io"
@@ -82,9 +82,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohiuddin Ahmed"
+  name             : "Mohiuddin Ahmed, Ph.D."
   avatar           : "/assets/images/Pro.jpg"
-  bio              : "Ph.D. Candidate, Cyber Security Researcher @UNC Charlotte"
+  bio              : "Cyber Security Researcher @UNC Charlotte"
   location         : "Melbourne, Florida, USA"
 #  employer         :
 #  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

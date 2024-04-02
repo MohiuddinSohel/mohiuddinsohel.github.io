@@ -23,8 +23,8 @@ Investigation of Attacker Activities. Designed and implemented distributed hiera
 
 <div style="text-align: justify">
 <b>CIS Critical Security Control (CSC) Assessment</b> [August 2018 - May 2020],  This project aims to determine what to measure (observables), 
-how to measure (tools required), and metrics to evaluate the enforcement of CSCs. I used prompt engineering (Zero-shot learning, Few-shot learning, 
-Chain-of-Thought, Tree-of-though) with LLM (ChatGPT, LLAMA) to extract that information from the CIS CSC guidelines. Later, The CIS reviewed and 
+how to measure (tools required), and metrics to evaluate the enforcement of CSCs. I used prompt engineering (Few-shot learning, 
+Chain-of-Thought, Tree-of-Though) with LLM (ChatGPT, LLAMA) to extract that information from the CIS CSC guidelines. Later, The CIS reviewed and 
 published our proposed approach as guidelines for the industry to assess CSCs. I also published my works at HOTSOS 2018 as a novel way to develop 
 measures and metrics for CIS CSC assessment.
 </div>
