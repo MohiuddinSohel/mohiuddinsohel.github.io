@@ -17,8 +17,8 @@ Dissertation Advisor: [Dr. Jinpeng Wei (UNC Charlotte)](https://webpages.charlot
       
 **Professional Services**<br>
 [University of North Carolina at Charlotte, NC, USA](https://cci.uncc.edu/departments/software-and-information-systems-sis)<br>
-    Research Assistant [August, 2016 - 2020]<br>
-    Teaching Assitant [August, 2016 - To date] <br>
+    Research Assistant [August, 2016 - March, 2024]<br>
+    Teaching Assitant [August, 2016 - December, 2023]<br>
     
   [KONA Software Lab Ltd., Dhaka, Bangladesh](https://konasl.com/) <br>
     Team Lead, Security Lab [December, 2015 - June, 2016]<br>
