@@ -82,9 +82,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohiuddin Ahmed, Ph.D."
+  name             : "Mohiuddin Ahmed"
   avatar           : "/assets/images/Pro.jpg"
-  #bio              : "Cyber Security Researcher @UNC Charlotte"
+  bio              : "Ph.D. in Security Analytics"
   location         : "Melbourne, Florida, USA"
 #  employer         :
 #  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
