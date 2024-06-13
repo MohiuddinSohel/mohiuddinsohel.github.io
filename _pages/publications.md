@@ -22,7 +22,7 @@ redirect_from:
 </div>
 
 ***<u>Dissertation Thesis</u>***
-[<center>Distributed Hierarchical Event Monitoring for Security Analytics</center>](https://www.proquest.com/docview/3047710876/fulltextPDF/663A871EB9DB4724PQ?sourcetype=Dissertations%20&%20Theses)<br>
+[<center>Distributed Hierarchical Event Monitoring for Security Analytics</center>](https://www.proquest.com/docview/3047710876/fulltextPDF/663A871EB9DB4724PQ?sourcetype=Dissertations%20&%20Theses)
 <div style="text-align: justify">
 In recent years, there has been an increase in attacks, including advanced persistent threats (APTs), and the techniques used by the attacker in these attacks have reached unprecedented sophistication. Threat hunters use various monitoring tools to monitor and collect all these attack actions (which blend in with benign user activities) for cyber threat hunting—the end devices store monitored activities as generated logs/events. Moreover, Organizations like NIST and CIS provide guidelines (CSC) to enforce cyber security and defend against those attacks.
 
