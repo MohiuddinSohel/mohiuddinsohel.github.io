@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /publication
 ---
-**Publication**<br>
+**Publication**
 1. **Mohiuddin Ahmed**. (2024). Distributed Hierarchical Event Monitoring for Security Analytics. The University of North Carolina at Charlotte ProQuest Dissertations & Theses, 2024.31238031. [Link](https://www.proquest.com/docview/3047710876/fulltextPDF/663A871EB9DB4724PQ?sourcetype=Dissertations%20&%20Theses)
 1. **Mohiuddin Ahmed**, Jinpeng Wei, Ehab Al-Shaer. (2024). Prompting LLM to Enforce and Validate CIS Critical Security Control. (ACM SACMAT 2024). [Presentation Slides at ACM SACMAT 2024.](/../presentation/SACMAT_2024_presentation.pptx)
 1. **Mohiuddin Ahmed**, Jinpeng Wei, Ehab Al-Shaer. (2023). SCAHunter: Scalable Threat Hunting through Decentralized Hierarchical Monitoring Agent Architecture. (Computing 2023). [Link](https://doi.org/10.1007/978-3-031-37963-5_88)
