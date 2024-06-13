@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /publication
 ---
-## Publications
+***<u>Publications</u>***
 <div style="text-align: justify">
 <ol>
 <li><b>Mohiuddin Ahmed</b>. (2024). Distributed Hierarchical Event Monitoring for Security Analytics. The University of North Carolina at Charlotte ProQuest Dissertations & Theses, 2024.31238031. <a href = "https://www.proquest.com/docview/3047710876/fulltextPDF/663A871EB9DB4724PQ?sourcetype=Dissertations%20&%20Theses">Link</a></li>
@@ -21,7 +21,7 @@ redirect_from:
 </ol>
 </div>
 
-## Dissertation Thesis
+***<u>Dissertation Thesis</u>***
 [<center>Distributed Hierarchical Event Monitoring for Security Analytics</center>](https://www.proquest.com/docview/3047710876/fulltextPDF/663A871EB9DB4724PQ?sourcetype=Dissertations%20&%20Theses)<br>
 <div style="text-align: justify">
 In recent years, there has been an increase in attacks, including advanced persistent threats (APTs), and the techniques used by the attacker in these attacks have reached unprecedented sophistication. Threat hunters use various monitoring tools to monitor and collect all these attack actions (which blend in with benign user activities) for cyber threat hunting—the end devices store monitored activities as generated logs/events. Moreover, Organizations like NIST and CIS provide guidelines (CSC) to enforce cyber security and defend against those attacks.
