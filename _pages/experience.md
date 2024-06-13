@@ -1,6 +1,7 @@
 ---
 layout: single
 classes: wide
+permalink: /experience/
 author_profile: true
 redirect_from:
   - /resume

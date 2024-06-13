@@ -1,6 +1,7 @@
 ---
 layout: single
 classes: wide
+permalink: /publications/
 author_profile: true
 redirect_from:
   - /publication
