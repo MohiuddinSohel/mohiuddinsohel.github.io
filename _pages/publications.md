@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /publication
 ---
+<div style="text-align: justify">
 **Publication**
 1. **Mohiuddin Ahmed**. (2024). Distributed Hierarchical Event Monitoring for Security Analytics. The University of North Carolina at Charlotte ProQuest Dissertations & Theses, 2024.31238031. [Link](https://www.proquest.com/docview/3047710876/fulltextPDF/663A871EB9DB4724PQ?sourcetype=Dissertations%20&%20Theses)
 1. **Mohiuddin Ahmed**, Jinpeng Wei, Ehab Al-Shaer. (2024). Prompting LLM to Enforce and Validate CIS Critical Security Control. (ACM SACMAT 2024). [Presentation Slides at ACM SACMAT 2024.](/../presentation/SACMAT_2024_presentation.pptx)
@@ -24,3 +25,4 @@ In recent years, there has been an increase in attacks, including advanced persi
 Although the end hosts and networking devices can record all benign user and adversary actions, it is infeasible to monitor everything. In existing approaches, high memory usage and communication overhead to transfer events to the central server create scalability issues on the monitored network. Single event matching on the end-host devices approach to detect attacks generates false alerts, causing the alert fatigue problem. This dissertation presents a distributed hierarchical monitoring agent architecture to overcome those limitations of existing tools and research works.
 
 Additionally, there are no well-defined automated measures and metrics to validate the enforcement of CSC. Manually analyzing and developing measures and metrics to monitor and implementing those monitoring mechanisms are resource-intensive tasks and massively dependent on the security analyst's expertise and knowledge. To tackle those problems, we use LLM as a knowledge base and reasoner to extract measures, metrics, and monitoring mechanism implementation steps from CSC descriptions to reduce the dependency on security analysts with the help of few-shot learning with chain-of-thought prompting. This dissertation presents CSC enforcement assessment with the help of our distributed hierarchical monitoring agent architecture and prompt engineering.
+</div>
