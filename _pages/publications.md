@@ -19,7 +19,8 @@ redirect_from:
 
 **Dissertation Thesis**<br>
 [Distributed Hierarchical Event Monitoring for Security Analytics](https://www.proquest.com/docview/3047710876/fulltextPDF/663A871EB9DB4724PQ?sourcetype=Dissertations%20&%20Theses)
-In recent years, there has been an increase in attacks, including advanced persistent threats (APTs), and the techniques used by the attacker in these attacks have reached unprecedented sophistication. Threat hunters use various monitoring tools to monitor and collect all these attack actions (which blend in with benign user activities) for cyber threat hunting—the end devices store monitored activities as generated logs/events. Moreover, Organizations like NIST and CIS provide guidelines (CSC) to enforce cyber security and defend against those attacks.
+
+Summary: In recent years, there has been an increase in attacks, including advanced persistent threats (APTs), and the techniques used by the attacker in these attacks have reached unprecedented sophistication. Threat hunters use various monitoring tools to monitor and collect all these attack actions (which blend in with benign user activities) for cyber threat hunting—the end devices store monitored activities as generated logs/events. Moreover, Organizations like NIST and CIS provide guidelines (CSC) to enforce cyber security and defend against those attacks.
 
 Although the end hosts and networking devices can record all benign user and adversary actions, it is infeasible to monitor everything. In existing approaches, high memory usage and communication overhead to transfer events to the central server create scalability issues on the monitored network. Single event matching on the end-host devices approach to detect attacks generates false alerts, causing the alert fatigue problem. This dissertation presents a distributed hierarchical monitoring agent architecture to overcome those limitations of existing tools and research works.
 
