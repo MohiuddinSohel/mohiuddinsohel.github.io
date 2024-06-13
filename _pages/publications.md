@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /publication
 ---
-
 ## Publications
 <div style="text-align: justify">
 <ol>
