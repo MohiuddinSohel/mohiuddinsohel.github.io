@@ -1,12 +1,12 @@
 ---
-layout: archive
+layout: single
 classes: wide
 permalink: /projects/
 author_profile: true
 redirect_from:
   - /resume
 ---
-## <u>Research and Projects</u>
+***<u>Research and Projects</u>***
 <div style="text-align: justify">
 <b>Scalable-Hunter</b> [August 2020 - December, 2023], Distributed Hierarchical Event Monitoring System for Attack Diagnosis through Active 
 Investigation of Attacker Activities. Designed and implemented distributed hierarchical event monitoring system to reduce attack
