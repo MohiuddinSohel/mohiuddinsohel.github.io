@@ -141,15 +141,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MohiuddinSohel"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/MohiuddinSohel"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/MohiuddinSohel"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mohiuddinahmedsohel/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/MohiuddinSohel"
 
 # Reading Files
 include:
