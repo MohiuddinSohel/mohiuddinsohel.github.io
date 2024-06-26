@@ -10,7 +10,7 @@ redirect_from:
 <div style="text-align: justify">
 <ol>
 <li><b>Mohiuddin Ahmed</b>. (2024). Distributed Hierarchical Event Monitoring for Security Analytics. The University of North Carolina at Charlotte ProQuest Dissertations & Theses, 2024.31238031. <a href = "https://www.proquest.com/docview/3047710876/fulltextPDF/663A871EB9DB4724PQ?sourcetype=Dissertations%20&%20Theses">Link</a></li>
-<li><b>Mohiuddin Ahmed</b>, Jinpeng Wei, Ehab Al-Shaer. (2024). Prompting LLM to Enforce and Validate CIS Critical Security Control. (ACM SACMAT 2024). <a href = "/../presentation/SACMAT_2024_presentation.pptx">Presentation Slides at ACM SACMAT 2024.</a></li>
+<li><b>Mohiuddin Ahmed</b>, Jinpeng Wei, Ehab Al-Shaer. (2024). Prompting LLM to Enforce and Validate CIS Critical Security Control. (ACM SACMAT 2024). <a href="https://doi.org/10.1145/3649158.3657036">Link</a><a href = "/../presentation/SACMAT_2024_presentation.pptx">Presentation Slides at ACM SACMAT 2024.</a></li>
 <li><b>Mohiuddin Ahmed</b>, Jinpeng Wei, Ehab Al-Shaer. (2023). SCAHunter: Scalable Threat Hunting through Decentralized Hierarchical Monitoring Agent Architecture. (Computing 2023). <a href = "https://doi.org/10.1007/978-3-031-37963-5_88">Link</a></li>
 <li>Sharun Akter Khushbu, Nasheen Nur, <b>Mohiuddin Ahmed</b>, Nashtarin Nur. (2023). A Comparison of Traditional to Advanced Linguistic Models to Analyze Sentiment in Bangla Texts. (EMNLP 2023 workshop BLP). <a href = "https://aclanthology.org/2023.banglalp-1.38/">Link</a></li>
 <li><b>Mohiuddin Ahmed</b>, Ehab Al-Shaer. (2019). Measures and metrics for the enforcement of critical security controls: a case study of boundary defense. (Poster presentation in HOTSOS 2019). <a href = "https://dl.acm.org/doi/abs/10.1145/3314058.3317730">Link</a></li>
