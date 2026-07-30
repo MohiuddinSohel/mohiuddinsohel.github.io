@@ -27,4 +27,20 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
-Cover letter/~$ver Letter.dot
+
+# Private career and identity documents
+Cover letter/
+Intern/
+Image/AI/
+Image/AI tutor/
+Image/Academia/
+Image/Security/
+Image/Senior sde/
+Image/research/
+Image/sde/
+Image/*Cover Letter*
+Image/*Transcript*
+Image/*Diploma*
+Image/*Personal Essay*
+Image/*thesis*
+Image/*.docx

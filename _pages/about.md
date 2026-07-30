@@ -1,11 +1,12 @@
 ---
 layout: single
 classes: wide
-permalink: /
-title: "Welcome to my personal homepage"
+permalink: /about/
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
   - /about.html
 ---
+
+This site has moved to the [main portfolio page](/#about).
