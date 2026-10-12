@@ -68,7 +68,7 @@
     <header class="sticky top-0 z-50 border-b border-white/10 bg-bg/85 backdrop-blur">
       <div class="mx-auto flex max-w-6xl items-center justify-end px-6 py-4">
         <nav class="hidden gap-6 text-sm text-slate-300 md:flex">
-          <a href="#top" class="transition hover:text-white" aria-label="Back to top">Top ↑</a>
+          <a href="#top" class="transition hover:text-white" aria-label="Back to top" data-back-to-top hidden>Back to top ↑</a>
           <a href="#about" class="transition hover:text-white">About</a>
           <a href="#work" class="transition hover:text-white">Selected Work</a>
           <a href="#experience" class="transition hover:text-white">Experience</a>
@@ -92,7 +92,7 @@
       </div>
       <nav id="mobile-menu" class="mx-6 hidden border-t border-white/10 pb-5 pt-4 text-sm text-slate-300 md:hidden" aria-label="Mobile navigation">
         <div class="grid grid-cols-2 gap-2">
-          <a href="#top" class="rounded-lg px-3 py-2 hover:bg-white/5 hover:text-white" aria-label="Back to top">Top ↑</a>
+          <a href="#top" class="rounded-lg px-3 py-2 hover:bg-white/5 hover:text-white" aria-label="Back to top" data-back-to-top hidden>Back to top ↑</a>
           <a href="#about" class="rounded-lg px-3 py-2 hover:bg-white/5 hover:text-white">About</a>
           <a href="#work" class="rounded-lg px-3 py-2 hover:bg-white/5 hover:text-white">Selected Work</a>
           <a href="#experience" class="rounded-lg px-3 py-2 hover:bg-white/5 hover:text-white">Experience</a>
@@ -523,6 +523,17 @@
 
   <script>
     document.getElementById('year').textContent = new Date().getFullYear();
+    const heroSection = document.querySelector('main section');
+    const backToTopLinks = document.querySelectorAll('[data-back-to-top]');
+    const updateBackToTop = () => {
+      const pastHero = heroSection.getBoundingClientRect().bottom <= document.querySelector('header').offsetHeight;
+      backToTopLinks.forEach((link) => { link.hidden = !pastHero; });
+    };
+    window.addEventListener('scroll', updateBackToTop, { passive: true });
+    window.addEventListener('resize', updateBackToTop);
+    window.addEventListener('pageshow', updateBackToTop);
+    updateBackToTop();
+
     const menuButton = document.getElementById('menu-button');
     const mobileMenu = document.getElementById('mobile-menu');
 
