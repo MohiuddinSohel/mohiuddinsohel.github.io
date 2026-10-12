@@ -18,6 +18,26 @@
             </li>
           {%- endfor -%}
         </ul>
+        <li class="masthead__menu-item market-easter-egg">
+          <details>
+            <summary aria-label="Discover a hidden project" title="Something curious..."><span aria-hidden="true">&gt;_</span></summary>
+            <div class="market-easter-egg__panel">
+              <strong>You found an Easter egg!</strong>
+              <p>Curious how one event can move an entire market?</p>
+              <a href="https://market-intelligence-brief.github.io/" target="_blank" rel="noopener noreferrer">The Butterfly Effect ↗</a>
+            </div>
+          </details>
+        </li>
+        <style>
+          .market-easter-egg { position: relative; }
+          .market-easter-egg summary { cursor: pointer; list-style: none; font-family: monospace; font-weight: 600; padding: .5em; }
+          .market-easter-egg summary::-webkit-details-marker { display: none; }
+          .market-easter-egg summary:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
+          .market-easter-egg__panel { position: absolute; right: 0; top: 100%; z-index: 100; width: 245px; padding: 14px; border: 1px solid #bbb; border-radius: 8px; background: #fff; color: #252a30; box-shadow: 0 6px 20px rgba(0,0,0,.14); font-size: 14px; line-height: 1.5; }
+          .market-easter-egg__panel p { margin: 8px 0; }
+          .market-easter-egg__panel a { color: #176b88; font-weight: 600; }
+          @media (max-width: 600px) { .market-easter-egg__panel { right: 0; max-width: 75vw; } }
+        </style>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
